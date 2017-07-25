@@ -11,6 +11,12 @@ This classifier takes pre-segmented images of mammograms and labels them as **no
 ## Results
 Normal mammogram image test
 ![Normal Test](/results/normal.png)
-Format: ![normal test](url)
+
+Benign mammogram image test
+![Benign Test](/results/benign.png)
+
+Malevolent mammogram image test
+![Malevolent Test](/results/malevolent.png)
 
 ## Accuracy
+![Final Test](/results/final.png)

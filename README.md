@@ -4,9 +4,8 @@ This classifier takes pre-segmented images of mammograms and labels them as **no
 
 ## Tools & Resources
 - [TensorFlow for Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)
-- Docker
-- TensorFlow
-- Digital Database for Screening Mammography (DDSM)
+- [Docker](https://www.docker.com/)
+- [Digital Database for Screening Mammography (DDSM)](http://marathon.csee.usf.edu/Mammography/Database.html)
 
 ## Results
 #### Normal mammogram image test

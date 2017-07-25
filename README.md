@@ -1,6 +1,5 @@
 # TensorFlow Mammogram Image Classifier
-
-This classifier takes pre-segmented images of mammograms and labels them as **normal**, **benign**, or **malevolent** in order of their accuracy rates of what the program predicts the image is.
+By using convolutional neural networks (CNNs) this classifies microcalcifications and masses in a mammogram as either *benign* or *malevolent*. If there are no masses present in the breast tissue then the mammogram will be classified as *normal*. The biggest challenge in this project was that the amount of mammogram images without any segmentation or overlay available online (publicly) was scarce and not feasible to train a CNN on, thus why I trained the data on pre-segmented images. The .gitignore contains files that are installed via the retrain.py script that is pulled from TensorFlow.
 
 ## Tools & Resources
 - [TensorFlow for Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)

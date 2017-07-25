@@ -1,8 +1,8 @@
 # TensorFlow Mammogram Image Classifier
 
-This classifier labels images of mammograms as either *normal*, *benign*, or *malevolent*
+This classifier takes pre-segmented images of mammograms and labels them as **normal**, **benign**, or **malevolent** in order of their accuracy rates of what the program predicts the image is.
 
-## Tools
+## Tools & Resources
 - Docker
 - TensorFlow
 - Inception v3 training model

@@ -9,14 +9,14 @@ This classifier takes pre-segmented images of mammograms and labels them as **no
 -Python
 
 ## Results
-### Normal mammogram image test
+#### Normal mammogram image test
 ![Normal Test](/results/normal.png)
 
-Benign mammogram image test
+#### Benign mammogram image test
 ![Benign Test](/results/benign.png)
 
-Malevolent mammogram image test
+#### Malevolent mammogram image test
 ![Malevolent Test](/results/malevolent.png)
 
-## Accuracy
+#### Accuracy
 ![Final Test](/results/final.png)

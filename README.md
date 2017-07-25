@@ -3,10 +3,10 @@
 This classifier takes pre-segmented images of mammograms and labels them as **normal**, **benign**, or **malevolent** in order of their accuracy rates of what the program predicts the image is.
 
 ## Tools & Resources
+- [TensorFlow for Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)
 - Docker
 - TensorFlow
-- Inception v3 training model
--Python
+- Digital Database for Screening Mammography (DDSM)
 
 ## Results
 #### Normal mammogram image test
@@ -18,5 +18,5 @@ This classifier takes pre-segmented images of mammograms and labels them as **no
 #### Malevolent mammogram image test
 ![Malevolent Test](/results/malevolent.png)
 
-#### Accuracy
+## Accuracy
 ![Final Test](/results/final.png)

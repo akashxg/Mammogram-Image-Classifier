@@ -8,13 +8,13 @@ By using a convolutional neural network (CNN) this program classifies microcalci
 - [Digital Database for Screening Mammography (DDSM)](http://marathon.csee.usf.edu/Mammography/Database.html)
 
 ## Results
-#### Normal mammogram image test
+#### Normal image test
 ![Normal Test](/results/normal.png)
 
-#### Benign mammogram image test
+#### Benign image test
 ![Benign Test](/results/benign.png)
 
-#### Malignant mammogram image test
+#### Malignant image test
 ![Malevolent Test](/results/malevolent.png)
 
 ## Overall Accuracy

@@ -14,7 +14,7 @@ By using a convolutional neural network (CNN) this program classifies microcalci
 #### Benign mammogram image test
 ![Benign Test](/results/benign.png)
 
-#### Malevolent mammogram image test
+#### Malignant mammogram image test
 ![Malevolent Test](/results/malevolent.png)
 
 ## Overall Accuracy
